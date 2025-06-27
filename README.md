@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=100&section=header&text=Yeeun%20Jeon!&fontSize=70&fontColor=000000&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=100&section=header&text=Welcome!&fontSize=70&fontColor=000000&animation=twinkling" />
 </p>
 
 <h1 align="center">✨ Hello, I'm Yeeun Jeon! ✨</h1>
@@ -15,12 +15,13 @@
 ---
 
 ### 🧠 Tech Stack
-
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>  
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
