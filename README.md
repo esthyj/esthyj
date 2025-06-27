@@ -1,9 +1,9 @@
+<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=100&section=header&text=Yeeun%20Jeon!&fontSize=70&fontColor=000000&animation=twinkling)
+</p>
 
 <h1 align="center">✨ Hello, I'm Yeeun Jeon! ✨</h1>
-<p align="center">
-  🧑‍💻 AI Engineer 
-</p>
+<h3 align="center">🧑‍💻 AI Engineer </h3>
 
 ---
 
@@ -35,4 +35,4 @@
 
 ### 🌷 Let's Connect!
 - 📧 Email: esthyj@naver.com
-- 🔗 LinkedIn: [linkedin.com/in/yeeun-jeon-426aa6340]
+- 🔗 LinkedIn: [yeeun-jeon-426aa6340](https://linkedin.com/in/yeeun-jeon-426aa6340)
