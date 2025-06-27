@@ -8,7 +8,7 @@
 
 ### 🐳 About Me
 - 💡 Currently working as an AI Engineer at Hanwha General Insurance 
-- 🎓 I majored in Data Science at Hanyang University (2021.03~2025.08)
+- 🎓 Majored in Data Science at Hanyang University
 - 🎨 Passionate about **LLM**, **RAG**, and **AI Research**
 
 
