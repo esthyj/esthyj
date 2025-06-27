@@ -5,14 +5,12 @@
 <h1 align="center">✨ Hello, I'm Yeeun Jeon! ✨</h1>
 <h3 align="center">🧑‍💻 AI Engineer </h3>
 
----
 
 ### 🐳 About Me
-- 💡I'm currently AI Engineer in Hanwha General Insurace 
+- 💡 Currently working as an AI Engineer at Hanwha General Insurance 
 - 🎓 I majored in Data Science at Hanyang University (2021.03~2025.08)
 - 🎨 Passionate about **LLM**, **RAG**, and **AI Research**
 
----
 
 ### 🧠 Tech Stack
 <p>
@@ -23,7 +21,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
+
 
 ### 💼 Work Experience
 - 🏢 **AI Engineer**, Hanwha General Insurance (2025.06~)
@@ -32,7 +30,7 @@
 - **Data Science Intern**, Samsung Electronics (2024.03~2024.06)
 - 🏫 Hanyang University, B.S. in **Data Science** (2021.03~2025.08)
 
----
+
 
 ### 🌷 Let's Connect!
 - 📧 Email: esthyj@naver.com
