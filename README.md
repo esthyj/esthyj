@@ -23,7 +23,7 @@
 
 
 
-### 💼 Work Experience
+### 💼 Experience
 - 🏢 **AI Engineer**, Hanwha General Insurance (2025.06~)
 - **AI Intern**, Samsung Electronics (2025.03~2025.05)
 - **AI Intern**, Hanwha General Insurance (2025.01~2025.02)
