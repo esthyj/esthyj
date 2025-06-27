@@ -29,4 +29,4 @@
 - 📧 Email: esthyj@naver.com
 - 🔗 LinkedIn: [yeeun-jeon-belu](https://linkedin.com/in/yeeun-jeon-belu)
 
-<h5 align="center">Developing human-centered LLM and AI technologies!💕</h5>
+<h3 align="center">Developing human-centered LLM and AI technologies!💕</h3>
