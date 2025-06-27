@@ -34,4 +34,4 @@
 
 ### 🌷 Let's Connect!
 - 📧 Email: esthyj@naver.com
-- 🔗 LinkedIn: [yeeun-jeon-426aa6340](https://linkedin.com/in/yeeun-jeon-426aa6340)
+- 🔗 LinkedIn: [yeeun-jeon-belu](https://linkedin.com/in/yeeun-jeon-belu)
