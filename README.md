@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=100&section=header&text=Welcome!&fontSize=70&fontColor=000000&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=100&section=header&text=Welcome!&fontSize=70&fontColor=000000&animation=twinkling&customColorList=ADD8E6,87CEEB,00BFFF,1E90FF,0000FF" />
 </p>
 
 <h1 align="center">✨ Hello, I'm Yeeun Jeon! ✨</h1>
